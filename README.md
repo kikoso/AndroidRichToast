@@ -26,4 +26,4 @@ You can add your own resources too.
 
 The library includes RobotO-light as Typography. This is a test on how it looks:
 
-![Screenshot](https://github.com/kikoso/AndroidRichToast/blob/master/assets/screenshot.png)
+![Screenshot](https://raw.github.com/kikoso/AndroidRichToast/master/assets/screenshot.png)
