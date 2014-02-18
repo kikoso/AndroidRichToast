@@ -2,7 +2,7 @@ This is the Android source code of RichToast
 
 Author: Enrique López Mañas (eenriquelopez@gmail.com)
 
-Source code is under GPL3 (see LICENSE)
+Source code is under Apache 2.0 (see LICENSE)
 Graphics are under CC-SA (see res/LICENSE)
 
 
